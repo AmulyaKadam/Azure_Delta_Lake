@@ -56,7 +56,7 @@ Build a **modern Azure-based data platform** to consolidate sales data and enabl
 
 ## 🏗️ Architecture
 
-![Azure Data Architecture](./images/Azure_data_architecture.png)
+![Azure Data Architecture](./Images/Azure_data_architecture.png)
 
 **High-Level Architecture Flow:**
 

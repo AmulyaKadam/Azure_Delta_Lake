@@ -77,7 +77,7 @@ Build a **modern Azure-based data platform** to consolidate sales data and enabl
 
 ## 📊 ADF Pipeline Execution & Monitoring
 
-![ADF Pipeline Log](./Images/ADF_pipeline_log.png)
+![ADF Pipeline Log](./Images/ADF_pipeline_logs.PNG)
 
 ADF pipelines are used to:
 

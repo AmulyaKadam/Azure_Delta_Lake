@@ -56,7 +56,7 @@ Build a **modern Azure-based data platform** to consolidate sales data and enabl
 
 ## 🏗️ Architecture
 
-![Azure Data Architecture](./Images/Azure_data_architecture.png)
+![Azure Data Architecture](./Images/Azure_Data_architecture.drawio.png)
 
 **High-Level Architecture Flow:**
 
@@ -71,13 +71,13 @@ Build a **modern Azure-based data platform** to consolidate sales data and enabl
 
 ## 🔄 Data Flow (Data Lineage)
 
-![Data Flow Diagram](./images/dataflow.png)
+![Data Flow Diagram](./Images/Flow_diagram.drawio.png)
 
 ---
 
 ## 📊 ADF Pipeline Execution & Monitoring
 
-![ADF Pipeline Log](./images/ADF_pipeline_log.png)
+![ADF Pipeline Log](./Images/ADF_pipeline_log.png)
 
 ADF pipelines are used to:
 
